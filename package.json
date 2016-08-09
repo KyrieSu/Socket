@@ -1,0 +1,22 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "practice repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyrieSu/Socket.git"
+  },
+  "author": "KyrieSu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyrieSu/Socket/issues"
+  },
+  "homepage": "https://github.com/KyrieSu/Socket#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
