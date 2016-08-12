@@ -1,6 +1,6 @@
 var request = require('request');
 
- request.get('127.0.0.1:1234?data=123',function(err,res,body){
+ request('http://127.0.0.1:1234?name=kyrie',function(err,res,body){
      if(err){
          console.log(err);
          return;
