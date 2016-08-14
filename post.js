@@ -6,7 +6,7 @@ var option = {
     body : 'hello world , too ~ ',
     form : {
         name : 'Kyrie' ,
-        school : 'YZU' 
+        school : 'YZU'
     }
 }
 
